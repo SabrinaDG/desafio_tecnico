@@ -1,1 +1,2 @@
-# desafio_t-cnico
+# Desafio tecnico
+# Resolução dos desafios solicitados

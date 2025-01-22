@@ -1,2 +1,2 @@
-# Desafio tecnico
-# Resolução dos desafios solicitados
+# Desafio técnico
+Resolução dos desafios solicitados

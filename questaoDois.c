@@ -5,7 +5,7 @@ int fibonacci(int N)
     if (N < 0)
     {
         printf("Erro: N deve ser um número inteiro não negativo.\n");
-        return -1; // Valor de erro
+        return -1; 
     }
     else if (N == 0 || N == 1)
     {
